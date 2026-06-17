@@ -1,4 +1,6 @@
 # Machine Learning Notes
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-FA0F00?logo=jupyter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
 This is my self-learning repository for Machine Learning, continuously updated starting from June 17, 2026. All explanations and documentation in this repository are written in Chinese.
 
